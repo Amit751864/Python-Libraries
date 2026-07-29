@@ -1,0 +1,21 @@
+NaN(Not a number)
+None(for object data type)
+
+
+isnull()
+return
+true means nan is misssing
+false means value is present
+
+
+axis = 0 means rows is me misssing value ko htana
+axis = 1 means column me se missing value ko htana
+
+dropna() missingvalue ko hta deta haa
+
+interpollation   interpolate()
+linear 
+
+1- preserve data integrity
+2-smooth trends
+3- aviod data loss

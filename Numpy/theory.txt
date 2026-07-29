@@ -1,0 +1,9 @@
+numpy is the short form of numerical python 
+in 2005
+ ,travis oliphant created numpy package
+ linear algebra. fourier transformation 
+ contiguous memory location 
+
+ properties 
+ shape ,sizes,dimensions
+ 

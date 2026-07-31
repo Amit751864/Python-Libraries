@@ -1,0 +1,6 @@
+line graph
+bar chart 
+pie chart
+histogram
+scatter plot
+custom graph

@@ -10,3 +10,5 @@ print(df)
 #method =  linear,polynomial,time
 df[["Age", "Salary", "Performance Score"]] = (df[["Age", "Salary", "Performance Score"]].interpolate(method="linear"))
 print(df)
+
+# interpolate means estimated value fill karta ha data ko analysis kar ke

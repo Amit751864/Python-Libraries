@@ -14,7 +14,7 @@ axis = 1 means column me se missing value ko htana
 dropna() missingvalue ko hta deta haa
 
 interpollation   interpolate()
-linear 
+linear ,polynomil,time
 
 1- preserve data integrity
 2-smooth trends

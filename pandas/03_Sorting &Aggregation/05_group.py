@@ -15,4 +15,4 @@ print(grouped)
 print("multi")
 #mutliple column implement group by
 grouped1 =df.groupby(["Age","Name"])["Salary"].sum()
-print(grouped1)
+print(grouped1) 

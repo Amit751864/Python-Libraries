@@ -1,5 +1,5 @@
 
-# 📊 Matplotlib Complete Guide (README.md)
+# 📊 Matplotlib Complete Guide 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-orange)

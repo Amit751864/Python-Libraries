@@ -1,5 +1,5 @@
 
-# 🐼 Pandas Complete Guide (README.md)
+# 🐼 Pandas Complete Guide 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-150458?logo=pandas)

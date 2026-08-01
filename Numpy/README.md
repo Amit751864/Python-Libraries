@@ -1,5 +1,5 @@
 
-# 🔢 NumPy Complete Guide 
+# 🔢 NumPy Complete Guide
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/Library-NumPy-013243?logo=numpy)

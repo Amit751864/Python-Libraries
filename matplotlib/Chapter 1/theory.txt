@@ -5,3 +5,39 @@ histogram
 scatter plot
 custom graph
 object orienated api
+ pyplot (state)       Object orienated API 
+ easy                     large project
+ less felixble           more felixble
+ begginer                  expert data Scientist
+
+MATPLOTLIB PLOTTING FUNCTION:
+
+1.SHOW GRID IN GRAPH
+plt.grid(color="gray",linestle=";",linewidth=1) ake graph me grid chayiye thu
+
+2.GRAPH DISPLAY
+plt.show() display karne ke liye
+
+3.LABELING OF X AND Y AXIS
+.plt.xlabel() x axis naming ke liye
+.plt.ylabel() y axis naming ke liye
+
+4.PLOT
+plt.plot(x,y, color="color name", linestyle ="line_style", linewidth=value, marker="maker symbol", label = "label_name")
+ connect to x and y axis to plot
+
+5.TITLE (HEADING)
+plt.title () title write karne ke liye
+
+6.AXIS TICKS
+.plt.xticks()
+.plt.yticks()
+
+7.AXIS LIMITS
+.plt.xlim()
+.plt.ylim()
+
+8.LEGEND
+plt.legend(loc="upperleft",ya loc="upperright",size=value) ya LEGEND kab show karta ha jab tak label use kiya ha thu plot me thu legend show hoga
+
+

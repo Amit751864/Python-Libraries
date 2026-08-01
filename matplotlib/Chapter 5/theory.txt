@@ -1,0 +1,17 @@
+savefig()  FUNCTION
+FILENAME
+.name
+.path
+
+FUTURE USE
+.Analysis
+.Presentation
+
+SHARING
+.collabration
+.publication
+
+FORMAT
+png
+pdf
+svg 

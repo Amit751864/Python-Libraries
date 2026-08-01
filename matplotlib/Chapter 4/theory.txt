@@ -1,0 +1,37 @@
+subplot functions
+
+means multiple charts in one page 
+mutliple charts
+comparsion multiple charts 
+
+SUB PLOT FUNCTION 
+
+1.plt.subplots()
+object Oriented
+prefered method
+
+2.plt.tight_layout()
+automatic_adjust
+overlap fix
+
+3.ax.text(),ax.annotate()
+text addition 
+annotation insertion
+
+4.fig.subplots_adjust()
+Manual Adjustment
+Spacing Control
+
+5.plt.subplot()
+Grid Layout
+quick creation
+
+6.share=True,sharey =True
+.shared  x-axis
+.shared y - axis
+
+7.ax_sets_title() , fig.suptitle()
+subplot Titles
+figure title
+
+

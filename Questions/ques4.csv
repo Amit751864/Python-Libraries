@@ -1,10 +1,10 @@
-Name,Age,Salary,Performance_Score,Department,Bonus,Annual_Salary,Age_Group
-Ram,22.0,33000,85.0,Information Technology,NO,396000,Young
-Amit,21.0,37864,76.0,Human Resource,NO,454370,Young
-Rajesh,32.0,53709,71.5,Sales Team,YES,644516,Adult
-Ankit,27.5,69555,67.0,Finance Team,YES,834662,Adult
-Auysh,23.0,47557,87.0,Information Technology,YES,570688,Young
-Raj,32.0,36787,87.0,Sales Team,NO,441447,Adult
-Rishi,37.5,366726,65.0,Human Resource,YES,4400721,Senior
-Ajay,42.0,201643,76.0,Finance Team,YES,2419718,Senior
-Vijay,43.0,36559,87.0,Information Technology,NO,438715,Senior
+Name,Age,Salary,Performance_Score,Department,Bonus,Annual_Salary,Age_Group,Email_ID,City
+Ram,22.0,33000,85.0,Information Technology,NO,396000,Young,ram123@gmail.con,Delhi
+Amit,21.0,37864,76.0,Human Resource,NO,454370,Young,amit123@gmail.com,Mumbai
+Rajesh,32.0,53709,71.5,Sales Team,YES,644516,Adult,rajesh123@gmail.com,Goa
+Ankit,27.5,69555,67.0,Finance Team,YES,834662,Adult,ram123@gmail.con,New York
+Auysh,23.0,47557,87.0,Information Technology,YES,570688,Young,ram123@gmail.con,Modinagar
+Raj,32.0,36787,87.0,Sales Team,NO,441447,Adult,ram123@gmail.con,Nodia
+Rishi,37.5,366726,65.0,Human Resource,YES,4400721,Senior,ram123@gmail.con,Bangkok
+Ajay,42.0,201643,76.0,Finance Team,YES,2419718,Senior,ram123@gmail.con,Ballia
+Vijay,43.0,36559,87.0,Information Technology,NO,438715,Senior,ram123@gmail.con,Ballia

@@ -79,3 +79,7 @@ print(df)
 df["Performance_Score"] = df["Performance_Score"] + 5
 print(df)
 
+# broadcasting
+# normalization
+# standardization
+

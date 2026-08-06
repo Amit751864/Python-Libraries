@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-
+#hii
 df =pd.read_csv("netflix_titles.csv",encoding="latin1")
 print(df)
 

@@ -36,4 +36,4 @@ df.to_csv("ques6.csv",index=False)
 print(df)
 # merge
 # join
-# concat
+# concate
